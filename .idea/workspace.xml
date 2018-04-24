@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3968e2dd-ef66-44c6-9c88-c1bb00b42b86" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Array.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DOM扩展.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Date.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegExp.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/事件.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/单体内置对象.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/基本包装类型.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/操作符.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据类型.pdf" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +33,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="38">
-                <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+                <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
               </first_editor>
               <second_editor />
             </state>
@@ -112,26 +124,25 @@
       <workItem from="1524553782033" duration="1889000" />
       <workItem from="1524555955176" duration="435000" />
       <workItem from="1524556451786" duration="307000" />
-      <workItem from="1524556787003" duration="1043000" />
+      <workItem from="1524556787003" duration="1492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3674000" />
+    <option name="totallyTimeSpent" value="4123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="199" y="1080" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" weight="0.3297568" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13161659" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13161659" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2339394" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2339394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -154,7 +165,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <caret line="2" column="63" selection-start-line="2" selection-start-column="63" selection-end-line="2" selection-end-column="63" />
           </first_editor>
           <second_editor />
         </state>
