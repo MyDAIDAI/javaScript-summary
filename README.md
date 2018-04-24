@@ -14,7 +14,7 @@
 ## RegExp
 ![RegExp](https://github.com/MyDAIDAI/javaScript-summary/blob/master/RegExp.png)
 ## Function
-![Function](https://github.com/MyDAIDAI/javaScript-summary/blob/master/Funtion.png)
+![Function](https://github.com/MyDAIDAI/javaScript-summary/blob/master/Function.png)
 ## BOM
 ![BOM](https://github.com/MyDAIDAI/javaScript-summary/blob/master/BOM.png)
 ## DOM
