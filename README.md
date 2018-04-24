@@ -8,7 +8,7 @@
 ##  单体内置对象
 ![单体内置对象](https://github.com/MyDAIDAI/javaScript-summary/blob/master/单体内置对象.png)
 ## Array
-![array](https://github.com/MyDAIDAI/javaScript-summary/blob/master/array.png)
+![array](https://github.com/MyDAIDAI/javaScript-summary/blob/master/Array.png)
 ## Date
 ![Date](https://github.com/MyDAIDAI/javaScript-summary/blob/master/Date.png)
 ## RegExp
