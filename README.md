@@ -1,4 +1,6 @@
 # `javaScript`高级程序设计总结
+- chapter 1: [在HTML中使用JavaScript](https://github.com/MyDAIDAI/javaScript-summary/tree/master/chapter1)
+- chapter 6: [面向对象的程序设计](https://github.com/MyDAIDAI/javaScript-summary/tree/master/chapter6)
 ## 操作符
 ![操作符脑图](https://github.com/MyDAIDAI/javaScript-summary/blob/master/操作符.png)
 ## 数据类型
